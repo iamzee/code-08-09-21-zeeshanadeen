@@ -1,0 +1,31 @@
+{
+	"name": "code-08-09-21-zeeshanadeen",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev:build": "webpack --config webpack.config.js --watch",
+		"dev:start": "nodemon dist/main.js",
+		"build": "webpack --config webpack.config.js",
+		"start": "node dist/main.js",
+		"test": "jest"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@types/express": "^4.17.13",
+		"@types/jest": "^27.0.1",
+		"@types/stream-json": "^1.7.1",
+		"express": "^4.17.1",
+		"faker": "^5.5.3",
+		"jest": "^27.1.0",
+		"nodemon": "^2.0.12",
+		"stream-chain": "^2.2.4",
+		"stream-json": "^1.7.2",
+		"ts-jest": "^27.0.5",
+		"ts-loader": "^9.2.5",
+		"typescript": "^4.4.2",
+		"webpack": "^5.52.0",
+		"webpack-cli": "^4.8.0"
+	}
+}

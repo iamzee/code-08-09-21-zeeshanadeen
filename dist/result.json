@@ -1,0 +1,50 @@
+[
+	{
+		"Gender": "Male",
+		"HeightCm": 171,
+		"WeightKg": 96,
+		"BMI": 56.14,
+		"BMICategory": "Very Severely Obese",
+		"HealthRisk": "Very high risk"
+	},
+	{
+		"Gender": "Male",
+		"HeightCm": 161,
+		"WeightKg": 85,
+		"BMI": 52.8,
+		"BMICategory": "Very Severely Obese",
+		"HealthRisk": "Very high risk"
+	},
+	{
+		"Gender": "Male",
+		"HeightCm": 180,
+		"WeightKg": 77,
+		"BMI": 42.78,
+		"BMICategory": "Very Severely Obese",
+		"HealthRisk": "Very high risk"
+	},
+	{
+		"Gender": "Female",
+		"HeightCm": 166,
+		"WeightKg": 62,
+		"BMI": 37.35,
+		"BMICategory": "Severely Obese",
+		"HealthRisk": "High risk"
+	},
+	{
+		"Gender": "Female",
+		"HeightCm": 150,
+		"WeightKg": 70,
+		"BMI": 46.67,
+		"BMICategory": "Very Severely Obese",
+		"HealthRisk": "Very high risk"
+	},
+	{
+		"Gender": "Female",
+		"HeightCm": 167,
+		"WeightKg": 82,
+		"BMI": 49.1,
+		"BMICategory": "Very Severely Obese",
+		"HealthRisk": "Very high risk"
+	}
+]
